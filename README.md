@@ -11,14 +11,14 @@ Telefone: (41)9205-9798
 
 Skype: mauricio_lang
 
-# Sobre
+## Sobre
 
-# Conhecimentos
+## Conhecimentos
 
-# Experiência profissional
+## Experiência profissional
 
-# Cursos
+## Cursos
 
-# Considerações
+## Considerações
 
 
