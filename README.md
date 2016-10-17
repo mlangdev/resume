@@ -22,17 +22,17 @@ já trabalhei em grandes projetos e acredito que o melhor código é aquele que é o
 
 ## Conhecimentos
 
-*HTML
-*PHP (POO)
-*Framework PHP(Codeigniter, Laravel)
-*Java
-*Javascript
-*Ajax
-*SQL
-*JQuery
-*Git
-*Noçoes em CSS
-*Photoshop
+- HTML
+- PHP (POO)
+- Framework PHP(Codeigniter, Laravel)
+- Java
+- Javascript
+- Ajax
+- SQL
+- JQuery
+- Git
+- Noçoes em CSS
+- Photoshop
 
 ## Experiência profissional
 
