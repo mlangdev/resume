@@ -31,7 +31,7 @@ já trabalhei em grandes projetos e acredito que o melhor código é aquele organiz
 - SQL
 - JQuery
 - Git
-- Noçoes em CSS
+- Noções em CSS
 - Photoshop
 
 ## Experiência profissional
