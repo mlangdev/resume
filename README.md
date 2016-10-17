@@ -13,12 +13,44 @@ Skype: mauricio_lang
 
 ## Sobre
 
+Tenho 23 anos, sou desenvolvedor back-end, trabalho na área ha 3 anos, descobri a programação por acaso e hoje faço isso por que amo, sou determinado 
+e esforçado, adoro desafios e sempre estou disposto a aprender.
+
+Trabalho bem em equipe por que sou comunicativo e gosto muito de conhecer novas pessoas, 
+já trabalhei em grandes projetos e acredito que o melhor código é aquele que é organizado e legível, sempre pensando na leitura e compreensão do próximo.
+
+
 ## Conhecimentos
+
+*HTML
+*PHP (POO)
+*Framework PHP(Codeigniter, Laravel)
+*Java
+*Javascript
+*Ajax
+*SQL
+*JQuery
+*Git
+*Noçoes em CSS
+*Photoshop
 
 ## Experiência profissional
 
-## Cursos
+**Programador PHP** - VisualHost Sistemas - Novembro de 2012 - Novembro de 2015
+
+> Minha primeira oportunidade como Programador, desenvolvia sites e sistemas customizaveis para empresas em PHP, tive uma grande experiência na empresa 
+pois trabalhava com excelentes programadores e pessoas realmente dispostas a compartilhar seu conhecimento.
+
+
+**Programador PHP** - VHSYS Sistema de Gestão Empresarial - Novembro de 2015 - Até o momento
+
+> Trabalho em equipe para desenvolver ferramentas e otimizações para o sistema, estou aprendendo muito pois utilizamos ferramentas conhecidas no mercado
+o que ajuda muito no desenvolvimento e controle de tarefas de varios projetos.
 
 ## Considerações
+
+Estou a pouco tempo na area, sei que o caminho ainda é longo mais sempre procuro me aprimimorar nas ferramentas e linguagens que gosto, no momento 
+estudo por conta, por plataformas de ensino ou por artigos e vídeos na internet, gosto de desafios e sempre estarei pronto para um, procuro sempre levar uma frase que aprendi que é "Trabalhe em algo que você realmente ame, e nunca precisará trabalhar na vida".
+
 
 
