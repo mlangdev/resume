@@ -36,16 +36,18 @@ já trabalhei em grandes projetos e acredito que o melhor código é aquele que é o
 
 ## Experiência profissional
 
-**Programador PHP** - VisualHost Sistemas - Novembro de 2012 - Novembro de 2015
-
-> Minha primeira oportunidade como Programador, desenvolvia sites e sistemas customizaveis para empresas em PHP, tive uma grande experiência na empresa 
-pois trabalhava com excelentes programadores e pessoas realmente dispostas a compartilhar seu conhecimento.
-
 
 **Programador PHP** - VHSYS Sistema de Gestão Empresarial - Novembro de 2015 - Até o momento
 
 > Trabalho em equipe para desenvolver ferramentas e otimizações para o sistema, estou aprendendo muito pois utilizamos ferramentas conhecidas no mercado
 o que ajuda muito no desenvolvimento e controle de tarefas de varios projetos.
+
+
+**Programador PHP** - VisualHost Sistemas - Novembro de 2012 - Novembro de 2015
+
+> Minha primeira oportunidade como Programador, desenvolvia sites e sistemas customizaveis para empresas em PHP, tive uma grande experiência na empresa 
+pois trabalhava com excelentes programadores e pessoas realmente dispostas a compartilhar seu conhecimento.
+
 
 ## Considerações
 
