@@ -24,7 +24,7 @@ já trabalhei em grandes projetos e acredito que o melhor código é aquele organiz
 
 - HTML
 - PHP (POO)
-- Framework PHP(Codeigniter, Laravel)
+- Framework PHP(Codeigniter, Laravel, Lumen, Xajax)
 - Java
 - Javascript
 - Ajax
