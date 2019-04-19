@@ -13,11 +13,19 @@ Skype: mauricio_lang
 
 ## Sobre
 
-Tenho 23 anos, sou desenvolvedor back-end, trabalho na área há 3 anos, descobri a programação por acaso e hoje faço isso por que amo, sou determinado 
-e esforçado, adoro desafios e sempre estou disposto a aprender.
+Meu nome é Mauricio Lang, nascido e criado em São José dos pinhais programador dês de 2012, adoro tecnologia e trabalhar com gestão de pessoas.
 
-Trabalho bem em equipe por que sou comunicativo e gosto muito de conhecer novas pessoas, 
-já trabalhei em grandes projetos e acredito que o melhor código é aquele organizado e legível, sempre pensando na leitura e compreensão do próximo.
+Iniciei minha carreira na área de tecnologia aos 18 anos na VisualHost prestando suporte de email ao cliente, lá comecei a conhecer programação e gostar do que os códigos poderiam me proporcionar ao longo do tempo.
+
+Em 2013 fui promovido a auxiliar de programação para realizar manutenção de sistemas de e-commerce e lojas virtuais hospedadas na empresa, ainda dividia meu tempo com manutenção de computadores e com outras demandas de servidores e hospedagens, também fazia manutenção de computadores para empresas parceiras.
+
+Somente em 2014 ainda na VisualHost iniciei realmente minha carreira como programador Júnior, criando sistemas para clientes, correções de problemas em aplicações ja existentes em PHP e também desenvolvendo novas soluções para ajudar o dia a dia das empresas.
+
+Em 2015 fui contratado pela VHSYS para atuar no desenvolvimento de aplicativos no sistema ERP e desenvolver aplicações para o produto, participei ativamente do crescimento da VHSYS com relação ao software e a emissão de NF-e agora como programador Pleno, desenvolvi a integração com NFC-e e participei das integrações com as prefeituras para desenvolvimento de NFS-e
+
+2018 tive a oportunidade rápida de trabalhar como analista de sistemas, fazendo levantamento de requisitos e estruturando projetos para serem desenvolvidos com a equipe, auxiliava na criação de estruturas e de insumos para que todo o trabalho estivesse desenhado e redondo para o desenvolvedor.
+
+Ao longo desse tempo dividia o meu trabalho com um sonho de ser gestor de desenvolvimento, e no mesmo ano tive essa oportunidade na VHSYS, onde estou atuando ate o momento, coordenando um time que é responsável pela estrutura do ERP e dos aplicativos como um todo.
 
 
 ## Conhecimentos
