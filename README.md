@@ -41,6 +41,9 @@ Ao longo desse tempo dividia o meu trabalho com um sonho de ser gestor de desenv
 - Git
 - Noções em CSS
 - Photoshop
+- AWS
+- Jira
+- Agile (Scrum,Kanban)
 
 ## Experiência profissional
 
