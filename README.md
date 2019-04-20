@@ -1,13 +1,13 @@
 # Mauricio Andrey Lang
 Local: São José dos Pinhais - PR
 
-Portfolio: http://mlangdev.github.io
+Medium: https://medium.com/@m.lang_40274
 
 Linkedin: https://www.linkedin.com/in/mauricio-lang
 
 Emai: mauricioandrey.lang@gmail.com
 
-Telefone: (41) 9205-9798
+Telefone: (41) 99205-9798
 
 Skype: mauricio_lang
 
