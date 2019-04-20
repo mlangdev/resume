@@ -46,17 +46,51 @@ Ao longo desse tempo dividia o meu trabalho com um sonho de ser gestor de desenv
 
 ## Experiência profissional
 
+**Coordenador de Desenvolvimento de software** - VHSYS Sistema de Gestão Empresarial - Julho de 2018 - Até o momento
+> Como Coordenador de desenvolvimento estou tendo a oportunidade de aprimorar minha gestão de pessoas, repassar meu conhecimento técnico adquirido na VHSYS e ajudar o time de desenvolvimento em novas atividades, sou responsável por manter a qualidade do nosso produto atual por meio de novas implementações, sugestões de clientes e alteração nas regras fiscais de cada estado.
 
-**Programador PHP** - VHSYS Sistema de Gestão Empresarial - Novembro de 2015 - Até o momento
+ - Alinhamentos estratégicos
+ - Processos seletivos para novas vagas
+ - Contratação de colaboradores
+ - Manutenção e acompanhamento de Sprints
+ - 1:1 e feedbacks com colaboradores
+ - Elaboração de Plano de carreira
+ - Treinamento, validação e implantação de sistemas
 
-> Trabalho em equipe para desenvolver ferramentas e otimizações para o sistema, estou aprendendo muito pois utilizamos ferramentas conhecidas no mercado
-o que ajuda muito no desenvolvimento e controle de tarefas de vários projetos.
+**Analista de Sistemas** - VHSYS Sistema de Gestão Empresarial - Fevereiro de 2018 - Até Julho de 2018
+>Um novo passo na minha carreira foi a oportunidade de trabalhar com Análise e desenvolvimento de sistemas na VHSYS.
+Junto com o time de desenvolvimento ajudei na criação de aplicações externas e internas, no levantamento de requisitos e na estruturação de novos projetos.
+Colaborei na manutenção de aplicações existentes e junto com o comitê de produto pude expor minhas ideias e ampliar meu conhecimento sobre a ferramenta.
+ - Criação de projetos
+ - Análise para implementações de novas funcionalidades
+ - Levantamento de requisitos
+ - Acompanhamento do andamento do desenvolvimento
+ - Manutenção e organização do backlog
+ - Criação e acompanhamento de Sprints
+ - Mapeamento de correções
+ - Integrante do comitê de Produto VHSYS
+ - Gerenciamento de conta AWS (EC2, RDS, Lambda)
 
+**Programador PHP Pleno** - VHSYS Sistema de Gestão Empresarial - Novembro de 2015 - Até Fevereiro de 2018
+> Na VHSYS tive oportunidade de expandir meu conhecimento, não só em PHP mais pude me aventurar em outras linguagens e framework, criei aplicações em Java, JavaScript, Ionic e Angular2, ganhei conhecimento e utilizações diárias em metodologias ágil, GTD, Jira e Git.
+Nesses anos trabalhando como Desenvolvedor trabalhei junto com a equipe e pude participar de grandes projetos.
+ - Desenvolvimento de aplicações em PHP
+ - Criação de aplicativo em Ionic
+ - Criação de integrações com aplicações externas
+ - Criação de API REST
+ - Integrante do comitê de Cultura VHSYS
+ - Integração com sistemas Marketplace
+ - Desenvolvimento da integração com NFC-e
+ - Correções e melhorias em NF-e
+ - Integrações com prefeituras para homologação de NFS-e
 
-**Programador PHP** - VisualHost Sistemas - Novembro de 2012 - Novembro de 2015
-
-> Minha primeira oportunidade como Programador, desenvolvia sites e sistemas customizáveis para empresas em PHP, tive uma grande experiência na empresa 
-pois trabalhava com excelentes programadores e pessoas realmente dispostas a compartilharem seus conhecimentos.
+**Programador PHP Junior** - VisualHost Sistemas - Novembro de 2012 - Novembro de 2015
+>Minha primeira experiência como desenvolvedor Web.
+Responsável por pequenas correções em sistemas PHP e criação de sites em WordPress, pude desenvolver e aplicar tecnologias que estava estudando no momento e me aprofundar no conhecimento e utilização de frameworks como Laravel e Codeigniter
+ - Desenvolvimento de pequenas aplicações em PHP
+ - Desenvolvimento de sites em WordPress
+ - Rotinas SQL
+ - Correção e manutenção de aplicações em PHP
 
 
 ## Considerações
